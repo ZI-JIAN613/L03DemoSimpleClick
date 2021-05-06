@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name="ethink">Enter Something Here</string>
+    <string name="tvdefault">Display what the user enters</string>
+    <string name="btnText">Display</string>
+    <string name="genderM">Male</string>
+    <string name="genderF">Female</string>
+</resources>
